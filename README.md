@@ -2,10 +2,6 @@
 
 <br>
 
-<p align="center">
-  <img src="forReadme/mockup.png" alt="mockup" >
-</p>
-
 ## 🔷 Netlify
 
 ### [Live Demo - Clique aqui!](https://jhonatanbergmann-simplecalculator.netlify.app/)
