@@ -15,7 +15,7 @@ Simples Calculadora, Aplicação React.
 </p>
 
 ## 🌐 Tecnologias Usadas
-Foram usadas essa tecnologias:
+Foram usadas essas tecnologias:
 
 - [React](https://pt-br.reactjs.org/)
 - [Yarn](https://yarnpkg.com/)
